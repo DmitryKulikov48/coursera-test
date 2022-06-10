@@ -13,11 +13,13 @@ h2 {
     font-family: "Comic Sans MS", serif;
     border: solid black 2px;
     float: right;
+    margin-top: 0;
+    background-color: #E74C3C;
 }
 
 div{
     border: 0;
-    background-color: #F39C12;
+    background-color: #73C6B6;
     width: 90%;
     height: 220px;
     margin-bottom: 50px;
@@ -37,6 +39,14 @@ p{
 /* Simple Responsive Framework. */
 .row {
     width: 100%;
+}
+
+.green {
+    background-color: #2ECC71;
+}
+
+.purple {
+    background-color: #7D3C98;
 }
 
 /********** Large devices only **********/
