@@ -19,11 +19,9 @@ h2 {
 
 div{
     border: 0;
-    width: 90%;
+    width: 97%;
     height: 220px;
     margin-bottom: 50px;
-    margin-right: 5px;
-    margin-left: 5px;
 }
 
 p{
@@ -34,6 +32,7 @@ p{
     font-family: "Comic Sans MS", serif;
     color: black;
     border-color: black;
+    background-color: #73C6B6;
 }
 
 /* Simple Responsive Framework. */
@@ -68,7 +67,7 @@ p{
         width: 25%;
     }
     .col-lg-4 {
-        width: 32.57%;
+        width: 33.33%;
     }
     .col-lg-5 {
         width: 41.66%;
@@ -117,7 +116,7 @@ p{
         width: 41.66%;
     }
     .col-md-6 {
-        width: 48.87%;
+        width: 50%;
     }
     .col-md-7 {
         width: 58.33%;
