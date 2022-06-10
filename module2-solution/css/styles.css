@@ -8,21 +8,30 @@ h1 {
     font-family: "Comic Sans MS", serif;
 }
 
+h2 {
+    text-align: right;
+    font-family: "Comic Sans MS", serif;
+    border: solid black 2px;
+    float: right;
+}
+
 div{
     border: 0;
+    background-color: #F39C12;
+    width: 90%;
+    height: 220px;
+    margin-bottom: 50px;
+
 }
 
 p{
-    background-color: #F39C12;
-    width: 90%;
-    height: 160px;
+    padding-left: 10px;
+    padding-top: 40px;
     margin-right: auto;
     margin-left: auto;
-    padding: 10px;
     font-family: "Comic Sans MS", serif;
     color: black;
     border-color: black;
-    vertical-align: middle;
 }
 
 /* Simple Responsive Framework. */
